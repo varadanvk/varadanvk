@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Varadan! 👋
 
 ## 📚 About Me
 I'm a high school junior at Amador Valley High School. I plan on studying data science and computer science in the future.
@@ -23,9 +23,7 @@ At the Stanford Radiology Lab, I am harnessing the power of AI to develop a plat
 ## 🤝 How to reach me
 I'm open to collaborations, discussions on technology, or any exciting projects you might have in mind. Let's connect!
 
-- **GitHub:** [Your GitHub Username]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]
+- **Email:** varadanvk@gmail.com
 
 ## 🔭 Looking forward to
 - Making impactful contributions to open-source projects.
