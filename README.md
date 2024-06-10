@@ -1,7 +1,7 @@
 # Hello, I'm Varadan! 👋
 
 ## 📚 About Me
-Amador Vallet HS class of 2025. I'm planning to major in CS + AI
+Amador Valley HS class of 2025. I'm planning to major in CS + AI
 
 ## 🏥 Research Intern: Stanford Radiology Lab
 At the Stanford Radiology Lab, I am harnessing the power of AI to develop a platform for testing ML algorithms on medical images. 
@@ -10,9 +10,9 @@ At the Stanford Radiology Lab, I am harnessing the power of AI to develop a plat
 - **Programming Languages:** Proficient in **Python**, **JavaScript**, **R**, and **Java**
 
 ## 💡 Interests
-- **Artificial Intelligence & Machine Learning:** Eager to uncover how AI/ML can transform industries and address complex societal challenges.
-- **Medical Imaging Technology:** Passionate about improving healthcare through technological advancements in diagnostics.
-- **Software Development:** Continuously exploring new tools and languages to broaden my programming expertise.
+- **Artificial Intelligence & Machine Learning** 
+- **Medical Imaging Technology** 
+- **Software Development** 
 
 ## 🤝 How to reach me
 I'm open to collaborations, discussions on technology, or any exciting projects you might have in mind. Let's connect!
