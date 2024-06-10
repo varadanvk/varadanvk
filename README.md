@@ -1,7 +1,8 @@
 # Hello, I'm Varadan! 👋
 
 ## 📚 About Me
-I'm a junior at Amador Valley High School. I plan on studying computer science and AI
+Amador Vallet HS class of 2025
+Planning to major in CS + AI
 
 ## 🏥 Research Intern: Stanford Radiology Lab
 At the Stanford Radiology Lab, I am harnessing the power of AI to develop a platform for testing ML algorithms on medical images. 
