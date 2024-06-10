@@ -1,8 +1,7 @@
 # Hello, I'm Varadan! 👋
 
 ## 📚 About Me
-Amador Vallet HS class of 2025
-Planning to major in CS + AI
+Amador Vallet HS class of 2025. I'm planning to major in CS + AI
 
 ## 🏥 Research Intern: Stanford Radiology Lab
 At the Stanford Radiology Lab, I am harnessing the power of AI to develop a platform for testing ML algorithms on medical images. 
