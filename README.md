@@ -1,23 +1,30 @@
-# Hello, I'm Varadan! 👋
+# Varadan 
 
-## 📚 About Me
-Amador Valley HS class of 2025. I'm planning to major in CS + AI
+## About Me
+Amador Valley HS, Class of 2025
+Aspiring CS + AI major
 
-## 🏥 Research Intern: Stanford Radiology Lab
-At the Stanford Radiology Lab, I am harnessing the power of AI to develop a platform for testing ML algorithms on medical images. 
+## Current Roles
 
-## 💻 Technical Skills
-- **Programming Languages:** Proficient in **Python**, **JavaScript**, **R**, and **Java**
+Stanford Radiology Lab | Research Intern
+Developing AI platform for testing ML algorithms on medical images
 
-## 💡 Interests
-- **Artificial Intelligence & Machine Learning** 
-- **Medical Imaging Technology** 
-- **Software Development** 
+Gatekeep.ai | ML Engineering Intern
+Creating code generation models for video content
 
-## 🤝 How to reach me
-I'm open to collaborations, discussions on technology, or any exciting projects you might have in mind. Let's connect!
+OpenNLP | CFO
+Working on democratizing AI
 
-- **Email:** varadanvk@gmail.com
+## Technical Skills
+Python, JavaScript, R, Java
 
-Thanks for stopping by! I'm always looking to connect with like-minded individuals and explore new opportunities.
+## Interests
+Artificial Intelligence & Machine Learning
+Medical Imaging Technology
+Software Development
 
+## Contact
+Email: varadanvk@gmail.com
+Phone: 925-922-6649
+
+Open to collaborations and discussions on technology
