@@ -26,9 +26,6 @@ Democratizing AI research
 
 ## Contact
 **Email:** varadanvk@gmail.com
-
-**Phone:** 925-922-6649
-
 ---
 
 *Feel free to reach out!*
