@@ -22,7 +22,7 @@ Democratizing AI research
 ## Interests
 - Artificial Intelligence & Machine Learning
 - Medical Imaging Technology
-- Software Development
+- System Architecture
 
 ## Contact
 **Email:** varadanvk@gmail.com
