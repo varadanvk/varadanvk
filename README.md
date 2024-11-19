@@ -10,19 +10,16 @@ Aspiring CS + AI major
 ### [Gatekeep Labs](gatekeep.ai) | Builder / Operator
 Video generation models
 
-### Stanford Radiology Lab | Researcher
+### [Stanford Radiology Lab](https://med.stanford.edu/sci3) | Researcher
 Preclinical imaging software and tumor detection with ML
 
-### OpenNLP | CFO
+### [OpenNLP](https://opennlplabs.org/) | CFO
 Democratizing AI research
-
-## Technical Skills
-`Python` | `JavaScript` | `R` | `Java`
 
 ## Interests
 - Artificial Intelligence & Machine Learning
-- Medical Imaging Technology
 - System Architecture
+- Blockchain Tech
 
 ## Contact
 **Email:** varadanvk@gmail.com
