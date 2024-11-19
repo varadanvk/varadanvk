@@ -7,11 +7,11 @@ Aspiring CS + AI major
 
 ## Current Roles
 
-### Gatekeep.ai | ML Engineer
+### [Gatekeep Labs](gatekeep.ai) | Builder / Operator
 Video generation models
 
-### Stanford Radiology Lab | Research Intern
-Preclinical imaging software and tumor detection models
+### Stanford Radiology Lab | Researcher
+Preclinical imaging software and tumor detection with ML
 
 ### OpenNLP | CFO
 Democratizing AI research
