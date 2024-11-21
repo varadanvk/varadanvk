@@ -7,7 +7,7 @@ Aspiring CS + AI major
 
 ## Current Roles
 
-### [Gatekeep Labs](gatekeep.ai) | Builder / Operator
+### [Gatekeep Labs](https://gatekeep.ai) | Builder / Operator
 Video generation models
 
 ### [Stanford Radiology Lab](https://med.stanford.edu/sci3) | Researcher
