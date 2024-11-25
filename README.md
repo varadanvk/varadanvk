@@ -16,6 +16,9 @@ Preclinical imaging software and tumor detection with ML
 ### [OpenNLP](https://opennlplabs.org/) | CFO
 Democratizing AI research
 
+### [Kairos](https://kairoslabs.xyz/) | ???
+Building something new
+
 ## Interests
 - Artificial Intelligence & Machine Learning
 - System Architecture
