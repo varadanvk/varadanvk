@@ -17,7 +17,7 @@ Preclinical imaging software and tumor detection with ML
 Democratizing AI research
 
 ### [Kairos](https://kairoslabs.xyz/) | ???
-WOrkign on something new        
+Working on something new        
 
 ## Interests
 - Artificial Intelligence & Machine Learning
