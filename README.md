@@ -2,7 +2,7 @@
 
 ## About Me
 
-Amador Valley HS, Class of 2025
+Senior @ Amador Valley HS
 
 ## Current Roles
 
