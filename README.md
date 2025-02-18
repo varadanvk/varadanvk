@@ -2,15 +2,17 @@
 
 ## About Me
 
-Senior @ Amador Valley HS
+Senior at Amador Valley HS
 
-## Current Roles
+## Current
 
 ### [Aaru](https://aaru.com/) | Engineer
 
 Predicting the future
 
-### [Gatekeep ](https://gatekeep.ai) | Building
+## Previous
+
+### [Gatekeep ](https://gatekeep.ai) | Founder
 
 Video generation models
 
@@ -18,9 +20,9 @@ Video generation models
 
 Preclinical imaging software and tumor detection with ML
 
-### [OpenNLP](https://opennlplabs.org/) | CFO
+### [Kairos](https://kairoslabs.xyz/) | Founder
 
-Democratizing AI research
+Internal data search
 
 ## Contact
 
