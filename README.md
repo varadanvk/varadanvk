@@ -6,7 +6,7 @@ Incoming freshman at UC Davis
 
 ## Current
 
-Regrowing my hair after getting the worst buzzcut of all time and diving deep into mechanistic interperability and infra engineering
+Deploying early-stage cancer prevention infrastructure across MUAs
 
 ## Previous
 
