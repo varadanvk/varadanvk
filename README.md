@@ -4,6 +4,10 @@
 
 Incoming freshman at UC Davis
 
+## Current
+
+Regrowing my hair after getting the worst buzzcut of all time and diving deep into mechanistic interperability and infra engineering
+
 ## Previous
 
 ### [Aaru](https://aaru.com/) | Engineer
