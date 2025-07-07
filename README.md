@@ -2,15 +2,13 @@
 
 ## About Me
 
-Senior at Amador Valley HS
+Incoming freshman at UC Davis
 
-## Current
+## Previous
 
 ### [Aaru](https://aaru.com/) | Engineer
 
-Predicting the future
-
-## Previous
+Built agentic simulations for large-scale human behavior prediction
 
 ### [Gatekeep ](https://gatekeep.ai) | Founder
 
