@@ -20,7 +20,7 @@ Video generation models
 
 ### [Stanford Radiology Lab](https://med.stanford.edu/sci3) | Researcher
 
-Preclinical imaging software and tumor detection with ML
+Preclinical imaging software and tumor detection
 
 ### [Kairos](https://kairoslabs.xyz/) | Founder
 
