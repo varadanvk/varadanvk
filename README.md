@@ -2,7 +2,7 @@
 
 ## About Me
 
-Incoming freshman at UC Davis
+Freshman at UC Davis
 
 ## Current
 
